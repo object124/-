@@ -9,7 +9,7 @@ def home():
 if __name__ == '__main__':
     app.run(debug=True)
 
-@app.route('/user')
+@app.route('/a5611')
 def user():
     return 'Hello, User!'
 
